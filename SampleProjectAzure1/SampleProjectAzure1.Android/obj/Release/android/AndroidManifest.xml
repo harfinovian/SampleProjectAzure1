@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="SampleProjectAzure1.Android" android:versionCode="1" android:versionName="1.0">
-  <!--suppress UsesMinSdkAttributes-->
-  <uses-sdk android:minSdkVersion="15" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="Hemat_Apps.Hemat_Apps" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="25" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="Aplikasi Stock" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
+  <application android:label="Hemat Apps" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="SampleProjectAzure1" android:theme="@style/MainTheme" android:name="md55611e02e48fba21fc94472c28f47e633.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -13,6 +13,6 @@
     </activity>
     <activity android:label="Web Authenticator" android:name="md56beaf3ca16f9b29c56822643de3b05fa.FormAuthenticatorActivity" />
     <activity android:label="Web Authenticator" android:name="md56beaf3ca16f9b29c56822643de3b05fa.WebAuthenticatorActivity" />
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SampleProjectAzure1.Android.mono.MonoRuntimeProvider.__mono_init__" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Hemat_Apps.Hemat_Apps.mono.MonoRuntimeProvider.__mono_init__" />
   </application>
 </manifest>

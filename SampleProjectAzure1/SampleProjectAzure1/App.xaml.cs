@@ -14,7 +14,7 @@ namespace SampleProjectAzure1
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new BarangPage());
+            MainPage = new NavigationPage(new SavingPage());
         }
 
         protected override void OnStart()

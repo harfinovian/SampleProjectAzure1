@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="SampleMobileAzure1.TambahSavingPage" Title="Tambah Saving">
+    <ContentPage.Content>
+        <Grid x:Name="gvSaving">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Label Text="Saving Description :" HorizontalTextAlignment="End" Grid.Row="1" VerticalTextAlignment="Center" />
+            <Entry x:Name="txtDescription" Text="{Binding Description}" Placeholder="masukan deskripsi" Grid.Row="1" Grid.Column="1" />
+
+            <Label Text="Saving :" HorizontalTextAlignment="End" Grid.Row="2" Grid.Column="0" VerticalTextAlignment="Center" />
+            <Entry x:Name="txtCashTotal" Text="{Binding CashTotal}" Keyboard="Telephone" Placeholder="masukan Saving" Grid.Row="2" Grid.Column="1" />
+
+            <StackLayout Orientation="Horizontal" Grid.Row="3" Grid.ColumnSpan="2">
+                <Button x:Name="btnSave" HorizontalOptions="EndAndExpand" Text="Save" WidthRequest="150" Clicked="BtnSave_OnClicked" />
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage> 

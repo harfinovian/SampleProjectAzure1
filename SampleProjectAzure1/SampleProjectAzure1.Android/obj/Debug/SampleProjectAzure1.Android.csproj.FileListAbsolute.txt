@@ -1,7 +1,5 @@
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.Android.dll
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.Android.pdb
-c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.Android.apk
-c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.Android-Signed.apk
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\FormsViewGroup.dll
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.dll
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -25,7 +23,6 @@ c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleP
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\SampleProjectAzure1.Android.csprojResolveAssemblyReference.cache
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\SampleProjectAzure1.Android.dll
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\SampleProjectAzure1.Android.pdb
-c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\android\bin\SampleProjectAzure1.Android.apk
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\res\drawable\icon.png
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\res\drawable-hdpi\icon.png
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\res\drawable-xhdpi\icon.png
@@ -51,12 +48,7 @@ C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleP
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.dll.config
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.pdb
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.dll.mdb
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.Android.dll.mdb
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\android\assets\SampleProjectAzure1.Android.dll.mdb
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\android\assets\SampleProjectAzure1.dll.mdb
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\SampleProjectAzure1.pdb
+C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\Hemat_Apps.Hemat_Apps.apk
+C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Debug\Hemat_Apps.Hemat_Apps-Signed.apk
+C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Debug\android\bin\Hemat_Apps.Hemat_Apps.apk

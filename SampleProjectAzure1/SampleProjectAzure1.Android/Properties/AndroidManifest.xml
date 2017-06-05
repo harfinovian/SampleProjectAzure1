@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="SampleProjectAzure1.Android" android:versionCode="1" android:versionName="1.0">
-	<uses-sdk android:minSdkVersion="15" />
-	<application android:label="Aplikasi Stock" android:icon="@drawable/icon"></application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="Hemat_Apps.Hemat_Apps" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk android:minSdkVersion="14" android:targetSdkVersion="25" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<application android:label="Hemat Apps" android:icon="@drawable/icon"></application>
 </manifest>

@@ -8,13 +8,10 @@ c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleP
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Debug\Xamarin.Forms.Platform.pdb
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Debug\Xamarin.Forms.Xaml.pdb
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Debug\Xamarin.Forms.Xaml.xml
-c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.MainPage.xaml.g.cs
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.App.xaml.g.cs
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.dll
 c:\users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.pdb
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.csproj.App.config
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.BarangPage.xaml.g.cs
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.TambahBarangPage.xaml.g.cs
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Debug\SampleProjectAzure1.dll.config
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Debug\Newtonsoft.Json.dll
@@ -26,3 +23,6 @@ C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleP
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Debug\System.Net.Http.xml
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.SavingPage.xaml.g.cs
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.TambahSavingPage.xaml.g.cs
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Debug\SampleProjectAzure1.csprojResolveAssemblyReference.cache

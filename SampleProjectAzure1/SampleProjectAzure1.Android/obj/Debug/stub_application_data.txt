@@ -1,2 +1,0 @@
-android.app.Application
-SampleProjectAzure1.Android

@@ -39,25 +39,19 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Barang.cs" />
-    <Compile Include="BarangManager.cs" />
-    <Compile Include="BarangPage.xaml.cs">
-      <DependentUpon>BarangPage.xaml</DependentUpon>
+    <Compile Include="ICollectionView.cs" />
+    <Compile Include="Saving.cs" />
+    <Compile Include="SavingManager.cs" />
+    <Compile Include="SavingPage.xaml.cs">
+      <DependentUpon>SavingPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Constants.cs" />
-    <Compile Include="MainPage.xaml.cs">
-      <DependentUpon>MainPage.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TambahBarangPage.xaml.cs">
-      <DependentUpon>TambahBarangPage.xaml</DependentUpon>
+    <Compile Include="TambahSavingPage.xaml.cs">
+      <DependentUpon>TambahSavingPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="MainPage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
     <EmbeddedResource Include="App.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
@@ -93,13 +87,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="BarangPage.xaml">
+    <EmbeddedResource Include="SavingPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="TambahBarangPage.xaml">
+    <EmbeddedResource Include="TambahSavingPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

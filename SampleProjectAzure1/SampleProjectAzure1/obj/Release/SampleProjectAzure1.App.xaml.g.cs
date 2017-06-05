@@ -11,7 +11,7 @@
 namespace SampleProjectAzure1 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\harfi\\documents\\visual studio 2017\\Projects\\SampleProjectAzure1\\SamplePr" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\harfi\\Documents\\Visual Studio 2017\\Projects\\SampleProjectAzure1\\SamplePr" +
         "ojectAzure1\\SampleProjectAzure1\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         

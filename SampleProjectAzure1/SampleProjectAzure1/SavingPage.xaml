@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="SampleMobileAzure1.SavingPage" Title="List Of Saving">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="+" Clicked="MenuItem_OnClicked"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <ActivityIndicator  
+                       HorizontalOptions="Center" 
+                       VerticalOptions="Center" 
+                       IsVisible="False" 
+                       IsEnabled="True" 
+                       x:Name="syncIndicator"/>
+            <StackLayout HorizontalOptions="StartAndExpand" Orientation="Vertical">
+                <ContentView 
+                    x:Name="contentBalance"
+                    Padding="20">
+                    <Label TextColor="White" FontSize="Large" 
+                       x:Name="txtBalance" 
+                       Text="Balance = " 
+                       HorizontalTextAlignment="Center"/>
+                </ContentView>
+                
+                <ListView x:Name="listViewSaving" ItemTapped="ListView_OnItemTapped" IsPullToRefreshEnabled="True" Refreshing="ListViewSaving_OnRefreshing">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Spacing="0" Orientation="Horizontal" Padding="10">
+                                    <Label TextColor="Black" FontSize="Medium" Text="{Binding Description}" HorizontalOptions="Start"/>
+                                    <Label TextColor="Black" FontSize="Medium" Text="" HorizontalOptions="CenterAndExpand"/>
+                                    <Label TextColor="Black" FontSize="Medium" Text="{Binding CashTotal}" HorizontalOptions="End"/>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage> 
