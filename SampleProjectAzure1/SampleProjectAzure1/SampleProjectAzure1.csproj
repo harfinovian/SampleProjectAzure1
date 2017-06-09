@@ -8,8 +8,8 @@
     <ProjectGuid>{B40DD85E-E373-4EBB-9D6F-470A8DCA29A1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SampleProjectAzure1</RootNamespace>
-    <AssemblyName>SampleProjectAzure1</AssemblyName>
+    <RootNamespace>HematApps</RootNamespace>
+    <AssemblyName>HematApps</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Profile259</TargetFrameworkProfile>

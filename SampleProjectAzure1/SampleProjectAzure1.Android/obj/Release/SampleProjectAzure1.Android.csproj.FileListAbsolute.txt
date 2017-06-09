@@ -5,7 +5,6 @@ C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleP
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Microsoft.WindowsAzure.Mobile.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Newtonsoft.Json.dll
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\SampleProjectAzure1.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\System.Net.Http.Extensions.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\System.Net.Http.Primitives.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -20,7 +19,6 @@ C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleP
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Xamarin.Forms.Platform.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Xamarin.Forms.Xaml.dll
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\SampleProjectAzure1.dll.config
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\FormsViewGroup.pdb
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\FormsViewGroup.dll.mdb
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Microsoft.WindowsAzure.Mobile.xml
@@ -101,7 +99,6 @@ C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\Sam
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Release\res\values\styles.xml
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Release\R.cs.flag
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Release\uploadflags.txt
-C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\SampleProjectAzure1.pdb
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Release\SampleProjectAzure1.Android.csprojResolveAssemblyReference.cache
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\SampleProjectAzure1.Android.dll.mdb
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
@@ -114,3 +111,8 @@ C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleP
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Hemat_Apps.Hemat_Apps.apk
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\Hemat_Apps.Hemat_Apps-Signed.apk
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Release\android\bin\Hemat_Apps.Hemat_Apps.apk
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\HematApps.dll
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\HematApps.pdb
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\HematApps.dll.config
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\bin\Release\HematApps.dll.mdb
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1.Android\obj\Release\android\assets\HematApps.dll.mdb

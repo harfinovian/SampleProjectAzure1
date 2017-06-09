@@ -1,6 +1,4 @@
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\SampleProjectAzure1.dll.config
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\SampleProjectAzure1.dll
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\SampleProjectAzure1.pdb
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\Microsoft.WindowsAzure.Mobile.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\Newtonsoft.Json.dll
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\System.Net.Http.dll
@@ -20,9 +18,6 @@ C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleP
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\Xamarin.Forms.Xaml.pdb
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\Xamarin.Forms.Xaml.xml
 C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\SampleProjectAzure1.csproj.App.config
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\SampleProjectAzure1.App.xaml.g.cs
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\SampleProjectAzure1.dll
-C:\Users\harfi\documents\visual studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\SampleProjectAzure1.pdb
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\SampleProjectAzure1\SampleProjectAzure1\bin\Release\SampleProjectAzure1.dll.config
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\SampleProjectAzure1\SampleProjectAzure1\bin\Release\SampleProjectAzure1.dll
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\SampleProjectAzure1\SampleProjectAzure1\bin\Release\SampleProjectAzure1.pdb
@@ -53,5 +48,11 @@ C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\Sam
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\SampleProjectAzure1\SampleProjectAzure1\obj\Release\SampleProjectAzure1.dll
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzureHemat\SampleProjectAzure1\SampleProjectAzure1\obj\Release\SampleProjectAzure1.pdb
 C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\SampleProjectAzure1.csprojResolveAssemblyReference.cache
-C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\SampleProjectAzure1.SavingPage.xaml.g.cs
-C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\SampleProjectAzure1.TambahSavingPage.xaml.g.cs
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\HematApps.dll.config
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\HematApps.dll
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\bin\Release\HematApps.pdb
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\HematApps.App.xaml.g.cs
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\HematApps.SavingPage.xaml.g.cs
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\HematApps.TambahSavingPage.xaml.g.cs
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\HematApps.dll
+C:\Users\harfi\Documents\Visual Studio 2017\Projects\SampleProjectAzure1\SampleProjectAzure1\SampleProjectAzure1\obj\Release\HematApps.pdb
